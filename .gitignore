@@ -1,0 +1,39 @@
+# ==========================================
+# Root IDE Directories
+# ==========================================
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# ==========================================
+# Maven Target Directories (All Sub-projects)
+# ==========================================
+**/target/
+**/build/
+**/out/
+
+# Compiled Java Classes & Artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# ==========================================
+# Sub-project Specific IDE & OS Files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# ==========================================
+# Logs & Environment/Secrets
+# ==========================================
+*.log
+logs/
+*.tmp
+.env
+.env.local
+*gcp-key*.json
+*credentials*.json
