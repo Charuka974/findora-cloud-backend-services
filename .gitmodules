@@ -7,3 +7,9 @@
 [submodule "findora-media-service"]
 	path = findora-media-service
 	url = https://github.com/Charuka974/findora-media-service.git
+[submodule "ffindora-item-service"]
+	branch = main
+[submodule "ffindora-user-service"]
+	branch = main
+[submodule "ffindora-media-service"]
+	branch = main
