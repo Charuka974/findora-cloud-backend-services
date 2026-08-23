@@ -1,12 +1,15 @@
 [submodule "findora-item-service"]
 	path = findora-item-service
 	url = https://github.com/Charuka974/findora-item-service.git
+	branch = main
 [submodule "findora-user-service"]
 	path = findora-user-service
 	url = https://github.com/Charuka974/findora-user-service.git
+	branch = main
 [submodule "findora-media-service"]
 	path = findora-media-service
 	url = https://github.com/Charuka974/findora-media-service.git
+	branch = main
 [submodule "ffindora-item-service"]
 	branch = main
 [submodule "ffindora-user-service"]
