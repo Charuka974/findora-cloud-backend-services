@@ -37,3 +37,5 @@ logs/
 .env.local
 *gcp-key*.json
 *credentials*.json
+
+uploads/
